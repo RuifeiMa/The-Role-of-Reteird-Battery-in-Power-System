@@ -12,3 +12,5 @@ new_data1 and piecewise1 contain various data required for problem-solving and t
 DegradPolicy, EncouPolicy, and TransPolicy are programs corresponding to retirement policies, deployment policies, and transportation policies, respectively. The numbers in the suffixes represent different policy scenarios.
 
 SOH_coeff, SLB_year, SLB_RTE, SLB_N, and P_BESS are data files for the SOH (State of Health) degradation conversion coefficient, battery operational lifespan, battery charge/discharge efficiency, battery cycle numbers, and the basic data on battery SOH and cycle numbers, respectively.
+
+We apologize that, due to security considerations, some data in "new_data_1.xlsx" are temporarily withheld from public release. 
