@@ -14,3 +14,7 @@ DegradPolicy, EncouPolicy, and TransPolicy are programs corresponding to retirem
 SOH_coeff, SLB_year, SLB_RTE, SLB_N, and P_BESS are data files for the SOH (State of Health) degradation conversion coefficient, battery operational lifespan, battery charge/discharge efficiency, battery cycle numbers, and the basic data on battery SOH and cycle numbers, respectively.
 
 We apologize that, due to security considerations, some data in "new_data_1.xlsx" are temporarily withheld from public release. 
+
+Special thanks to Litao Zheng, Xuecen Wang, and Xin He for their contributions to the development of this code.
+
+If you have any questions, please feel free to contact us at ruifei.ma@outlook.com.
