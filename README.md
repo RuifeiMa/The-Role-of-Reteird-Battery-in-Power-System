@@ -17,4 +17,6 @@ We apologize that, due to security considerations, some data in "new_data_1.xlsx
 
 Special thanks to Litao Zheng, Xuecen Wang, and Xin He for their contributions to the development of this code.
 
+Some of the data generated have been published in the paper titled "Repurposing retired batteries for cost-efficient carbon-neutral power system ". If you use the code, please cite this paper. You can access the paper at ... (The paper has just been accepted and the DOI has not yet been released. Please wait a few days.)
+
 If you have any questions, please feel free to contact us at ruifei.ma@outlook.com.
